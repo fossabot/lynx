@@ -1,4 +1,6 @@
 # Lynx Framework
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmentos1386%2Flynx.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmentos1386%2Flynx?ref=badge_shield)
+
 
 ## Built with
 
@@ -52,3 +54,7 @@ Then run Mocha testing framework:
 $ mocha test/*.spec.ts
 ```
 Before hooks in `test/` directory will clean test database, initialize sequelize and seed fake data. 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmentos1386%2Flynx.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmentos1386%2Flynx?ref=badge_large)
